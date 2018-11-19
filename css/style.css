@@ -1,0 +1,76 @@
+/*
+Colour WHeel:
+#5A0511 : Darkest Red;
+#8E0A1D : Darker Red;
+#D0112B : Logo Red;
+#6D6E71 : Grey;
+#0B0B0B : Darkest Grey;
+
+
+https://www.flaticon.com/packs/business-8
+*/
+
+
+  	.navbar-collapse {
+  		padding-right:100px;
+  	}
+  	.navbar-brand {
+  		padding-left:5%;
+  	}
+
+    .features-icons-icon{
+      color:red;
+    }
+    #ctalist {
+      list-style: none;
+      display:-moz-inline-stack;
+      display:inline-block;
+      margin-left:-50px;
+      zoom:0;
+      text-align: left;
+      *display:inline
+
+    }
+
+    #ctalist li:before {
+  /* -content: "●";-*/
+  content:"";
+  background-image: url('../img/checked.png');
+  background-size: 20px 20px;
+  display: inline-block;
+  width: 20px; 
+  height: 20px;
+  margin-right: .7em;
+}
+
+.btn-primary {
+  background-color: #D0112B;
+  border-color: #D0112B;
+}
+
+.btn-primary:hover {
+  background-color: #8E0A1D;
+  border-color: #8E0A1D;
+}
+
+.fa-phone {
+    transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+}
+
+.features-icons-icon img {
+  height:100px;
+}
+.features-icons-icon img:hover {
+  height:110px;
+}
+
+a {
+  color:#D0112B;
+}
+
+a:hover {
+  color:#8E0A1D;
+}
