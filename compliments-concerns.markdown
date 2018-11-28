@@ -6,9 +6,11 @@ layout: page
 
 # Compliments and concerns
 
-We always work hard to build strong and lasting relationships with our valued customers. By listening to your feedback, not only can we address any immediate concerns you may have, we will also continually improve our products and services.
+We always work hard to build strong and lasting relationships with our valued customers. By listening to your feedback, not only can we address any immediate concerns you may have we will also continually improve our products and services.
 
-We know there are times when you may wish to compliment us on something we have done well and other times when you may wish to tell us we have not met your expectations. Compliments
+We know there are times when you may wish to compliment us on something we have done well and other times when you may wish to tell us we have not met your expectations.
+
+##Compliments
 
 Our representatives are always delighted to know that they have succeeded in making your experience a pleasant and successful one.
 
@@ -16,9 +18,11 @@ If one of our representatives has provided you with exceptional service in any w
 
 ## Concerns
 
-If for any reason, you do not feel that you have received the highest standard of care from us, we encourage you to share this with us. We have developed a process that makes it easy for you to tell us of your concerns and for them to be addressed quickly and fairly.
+If for any reason, you do not feel that you have received the highest standard of care from us, we encourage you to share this with us. We have developed a process that makes it easy for you to tell us about your concerns and for them to be addressed quickly and fairly.
 
-If you choose to contact us by mail or email, please make sure you provide as much detail as possible about your complaint. Need an Update on your complaint
+If you choose to contact us by mail or email, please make sure you provide as much detail as possible about your complaint. 
+
+## Need an Update on your complaint
 
 If you have lodged a complaint with us, you can contact us at any time to ask for an update on its status. Contact us through any of the methods listed above and please be sure to refer to your earlier communication so that we can respond effectively.
 
