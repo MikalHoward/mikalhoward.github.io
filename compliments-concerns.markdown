@@ -38,8 +38,8 @@ Email: info@cio.org.au
 Phone: 1800 138 422 (free call)  
 Mail: Credit and Investments Ombudsman Reply Paid 252, South Sydney NSW 1234
 
-or with the Australian Financial Complaints Authority if lodged on or after 1st November 2018:\
-Online: www.afca.org.au\
-Email: info@afca.org.au\
-Phone: 1800 931 678 (free call)\
+or with the Australian Financial Complaints Authority if lodged on or after 1st November 2018:  
+Online: www.afca.org.au  
+Email: info@afca.org.au  
+Phone: 1800 931 678 (free call)  
 Mail: Australian Financial Complaints Authority GPO Box 3, Melbourne VIC 3001
