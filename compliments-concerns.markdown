@@ -32,10 +32,10 @@ When we have completed our investigation we will write to let you know the outco
 
 We hope that you will be satisfied with how we deal with your complaint. However, if your concerns remain unresolved, or you have not heard from us within 45 days, then you can have your complaint heard by an independent party.
 
-You can lodge your complaint with the Credit and Investments Ombudsman if lodged before 1st November 2018:\
-Online: www.cio.org.au\
-Email: info@cio.org.au\
-Phone: 1800 138 422 (free call)\
+You can lodge your complaint with the Credit and Investments Ombudsman if lodged before 1st November 2018:  
+Online: www.cio.org.au  
+Email: info@cio.org.au  
+Phone: 1800 138 422 (free call)  
 Mail: Credit and Investments Ombudsman Reply Paid 252, South Sydney NSW 1234
 
 or with the Australian Financial Complaints Authority if lodged on or after 1st November 2018:\
