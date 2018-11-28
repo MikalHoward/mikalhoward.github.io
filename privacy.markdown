@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Privacy Policy
 date: 2018-11-28 17:44:00 Z
 layout: page
 ---
