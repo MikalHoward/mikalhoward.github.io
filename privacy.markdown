@@ -4,7 +4,7 @@ date: 2018-11-28 17:44:00 Z
 layout: page
 ---
 
-Privacy Policy
+**Privacy Policy**
 
 At Mikal Howard Finance, we are committed to protecting your privacy in accordance with the Privacy Act 1988 (Cth). This Privacy Policy describes our current policies and practices in relation to the handling and use of personal information.
 
@@ -42,7 +42,7 @@ We may also provide your information to others if we are required to do so by la
 
 Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate.
 
-If you wish to access or correct your personal information please write to *insert name and/or title of Privacy Officer and contact/email address *.
+If you wish to access or correct your personal information please write to \*insert name and/or title of Privacy Officer and contact/email address \*.
 
 We do not charge for receiving a request for access to personal information or for complying with a correction request. *Describe here the amount or basis on which you will charge for providing access to personal information if any. If you do not propose to charge for this, insert “We do not charge for providing access to personal information”*.
 
