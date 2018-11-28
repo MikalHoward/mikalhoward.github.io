@@ -8,7 +8,7 @@ layout: page
 
 At Mikal Howard Finance, we are committed to protecting your privacy in accordance with the Privacy Act 1988 (Cth). This Privacy Policy describes our current policies and practices in relation to the handling and use of personal information.
 
-###What information do we collect and how do we use it?
+### What information do we collect and how do we use it?
 
 We will ask you for personal information when we assist you with your finance. We use the information you provide to advise about and assist with your credit needs. We only provide your information to the companies with whom you choose to deal (and their representatives).
 
@@ -18,11 +18,11 @@ We may occasionally notify you about promotions, new services and special offers
 
 We may also use your information internally to help us improve our services and help resolve any problems.
 
-###What if you don’t provide some information to us?
+### What if you don’t provide some information to us?
 
 If you don’t provide us with full information, we can’t properly advise or assist you with your credit needs.
 
-###How do we hold and protect your information?
+### How do we hold and protect your information?
 
 We strive to maintain the reliability, accuracy, completeness, and currency of the personal information we hold and to protect its privacy and security. We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements
 
@@ -30,7 +30,7 @@ We hold the information we collect from you insert brief details of how and wher
 
 We ensure that your information is safe by insert brief details of how you protect that information, i.e. describe your security measures and procedures.
 
-###Will we disclose the information we collect to anyone?
+### Will we disclose the information we collect to anyone?
 
 We do not sell, trade, or rent your personal information to others.
 
@@ -38,7 +38,7 @@ We may need to provide your information to our credit licensee e.g. for administ
 
 We may also provide your information to others if we are required to do so by law or under some unusual other circumstances which the Privacy Act permits.
 
-###How can you check, update or change the information we are holding?
+### How can you check, update or change the information we are holding?
 
 Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate.
 
