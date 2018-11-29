@@ -46,11 +46,11 @@ If you wish to access or correct your personal information please write to Mikal
 
 We do not charge for receiving a request for access to personal information or for complying with a correction request.
 
-### Your consent
+### Your Consent
 
 By asking us to assist with your credit needs, you consent to the collection and use of the information you have provided to us for the purposes described above.
 
-### Tell us what you think
+### Tell Us What You Think
 
 We welcome your questions and comments about privacy. If you have any concerns or complaints, please contact Mikal Howard on 0419 820 366 and/or mikal@mikalhowardfinance.com.au as your first point of call. For further assistance, please refer to your Credit Guide provided by your Mortgage Broker.
 
