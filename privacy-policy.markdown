@@ -24,11 +24,11 @@ If you don’t provide us with full information, we can’t properly advise or a
 
 ### How do we hold and protect your information?
 
-We strive to maintain the reliability, accuracy, completeness, and currency of the personal information we hold and to protect its privacy and security. We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements
+We strive to maintain the reliability, accuracy, completeness, and currency of the personal information we hold and to protect its privacy and security. We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
 
-We hold the information we collect from you insert brief details of how and where you store your clients’ information.
+We hold the information we collect from you in our secure cloud server, Dropbox. It is also backed-up off-site for extra security. As credit representatives of Connective Credit Services Pty Ltd, we have access to an industry based software that also has a secure server where your information is stored.
 
-We ensure that your information is safe by insert brief details of how you protect that information, i.e. describe your security measures and procedures.
+We ensure that your information is safe by using a secure shredding service for hard copy items or returning to you at your request. All items are managed in Dropbox constantly and can be accessed quickly and easily if you require anything.
 
 ### Will we disclose the information we collect to anyone?
 
@@ -42,9 +42,9 @@ We may also provide your information to others if we are required to do so by la
 
 Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate.
 
-If you wish to access or correct your personal information please write to *insert name and/or title of Privacy Officer and contact/email address *.
+If you wish to access or correct your personal information please write to Mikal Howard at mikal@mikalhowardfinance.com.au and we can manually amend the information or you can be set up with your own manual access to my software and manage it yourself.
 
-We do not charge for receiving a request for access to personal information or for complying with a correction request. Describe here the amount or basis on which you will charge for providing access to personal information if any. If you do not propose to charge for this, insert “We do not charge for providing access to personal information”.
+We do not charge for receiving a request for access to personal information or for complying with a correction request.
 
 ### Your consent
 
@@ -52,12 +52,8 @@ By asking us to assist with your credit needs, you consent to the collection and
 
 ### Tell us what you think
 
-We welcome your questions and comments about privacy. If you have any concerns or complaints, please contact insert name and/or title, telephone and email of Privacy Officer.
-
-## Complaints
+We welcome your questions and comments about privacy. If you have any concerns or complaints, please contact Mikal Howard on 0419 820 366 and/or mikal@mikalhowardfinance.com.au as your first point of call. For further assistance, please refer to your Credit Guide provided by your Mortgage Broker.
 
 ### Internal Dispute Resolution
 
-If you do have a complaint, please let us know by email, because if we don’t know about it we can’t fix it. You may also contact us by email addressed to; The Complaints Officer at insert name and/or title, telephone and email of Privacy Officer, please make sure you include as much information as you can.
-
-You should explain the details of your complaint as clearly as you can. You must do this in writing. When we receive a complaint, we will attempt to resolve it promptly.
+If you do have a complaint, please let us know by email, because if we don’t know about it we can’t fix it. Please make sure you include as much information as you can. You should explain the details of your complaint as clearly as you can. You must do this in writing. When we receive a complaint, we will attempt to resolve it promptly.
